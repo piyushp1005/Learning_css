@@ -1,0 +1,10 @@
+
+.t_upper{
+    text-transform: uppercase;
+}
+.t_lower{
+    text-transform: lowercase;
+}
+.t_caitalize{
+    text-transform: capitalize;
+}
